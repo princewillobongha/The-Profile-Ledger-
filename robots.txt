@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://the-profile-ledger.vercel.app/sitemap.xml
